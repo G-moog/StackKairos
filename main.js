@@ -1,5 +1,5 @@
 function includeHTML() {
-    console.log("동작하나?");
+    alert.log("동작하나?");
     var z, i, elmnt, file, xhttp;
     z = document.getElementsByTagName("*");
     for (i = 0; i < z.length; i++) {
